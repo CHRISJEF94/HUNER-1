@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: f04145d83b703eb4bafe084df83f024a
+timeCreated: 1447632107
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cd1b
+    21300002: cd2
+    21300004: cd3
+    21300006: cd4
+    21300008: cd5
+    21300010: cd6
+    21300012: cd7
+    21300014: cd8
+    21300016: muer1
+    21300018: muer2
+    21300020: muer3
+    21300022: muer4
+    21300024: muer5
+    21300026: muer6
+    21300028: cd1
+    21300030: cd2b
+    21300032: cd3b
+    21300034: cd4b
+    21300036: cd5b
+    21300038: cd6b
+    21300040: cd7b
+    21300042: cd8b
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cd1b
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cd2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 83
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cd3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 83
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cd4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 83
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cd5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 84
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cd6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 83
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cd7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 83
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cd8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 84
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muer1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muer2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 6
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muer3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muer4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muer5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muer6
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cd1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 84
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cd2b
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 68
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cd3b
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 68
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cd4b
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 68
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cd5b
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cd6b
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 68
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cd7b
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 68
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cd8b
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
